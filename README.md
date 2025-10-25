@@ -1,4 +1,4 @@
-# 🌿 Weed Detection System
+#  Weed Detection System
 
 A **Computer Vision** and **Machine Learning** project designed to detect weeds in agricultural fields.  
 This system helps farmers and researchers identify weed growth automatically, reducing manual effort and improving crop productivity.
